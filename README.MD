@@ -6,12 +6,12 @@
 
 ##### JS
 ~~~
- <link href="https://fonts.googleapis.com/css2family=Montserrat:wght@400&display=swap" rel="stylesheet">
+<script src="https://techappssv.github.io/upaint/upaint/upaint.js" ></script>
 
 ~~~
 ##### CSS
 ~~~
- <link href="https://fonts.googleapis.com/css2family=Montserrat:wght@400&display=swap" rel="stylesheet">
+ <link href="https://techappssv.github.io/upaint/upaint/upaint.css" rel="stylesheet">
 
 ~~~
 ##### Type of letter recomended
@@ -24,9 +24,12 @@
     <button class="primary-button">primary-button</button>
 ~~~
 
-# Demo 
+#  Code Demo 
 
  https://github.com/TechAppsSv/upaint/blob/master/index.html
+
+ # Live Demo
+ https://techappssv.github.io/upaint/index.html
 
 ## Available HTML Elements
 ### Buttons
