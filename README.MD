@@ -19,7 +19,7 @@
  <link href="https://fonts.googleapis.com/css2family=Montserrat:wght@400&display=swap" rel="stylesheet">
 
 ~~~
-# Example
+# Example of use
 ~~~
     <button class="primary-button">primary-button</button>
 ~~~
